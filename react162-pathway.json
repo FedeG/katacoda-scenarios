@@ -8,15 +8,8 @@
     "title": "ECMAScript 6",
     "description": "Curso de features nuevas de javascript que se agregaron en es6"
   }, {
-    "pathway_id": "jsx-react",
     "course_id": "jsx",
     "title": "JSX",
     "description": "Curso de JSX para uso en React"
-  }],
-  "scenarios": [{
-      "id": "ecma-script",
-      "title": "ECMAScript 6",
-      "description": "Curso de features nuevas de javascript que se agregaron en es6"
-    } 
-  ]
+  }]
 }
