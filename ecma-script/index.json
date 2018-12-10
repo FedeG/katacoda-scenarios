@@ -21,7 +21,13 @@
     "assets": {
       "client": [
         {
-          "file": "app/*",
+          "file": "app/**/*",
+          "target": "~/"
+        }
+      ],
+      "host01": [
+        {
+          "file": "app/**/*",
           "target": "~/"
         }
       ]
