@@ -6,7 +6,8 @@
     "steps": [
       {
         "title": "let y const",
-        "text": "let_const.md"
+        "text": "let_const.md",
+        "courseData": "background.sh"
       },
       {
         "title": "Step 2",
