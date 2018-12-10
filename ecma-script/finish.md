@@ -1,0 +1,1 @@
+Ya con los conocimientos de ECMAScript 6 podes empezar a hacer codigo en una version de javascript mas nueva y usar frameworks mas actuales.

@@ -1,0 +1,29 @@
+{
+  "title": "ECMAScript 6",
+  "description": "Curso de features nuevas de javascript que se agregaron en es6",
+  "details": {
+    "steps": [
+      {
+        "title": "let y const",
+        "text": "let_const.md"
+      },
+      {
+        "title": "Step 2",
+        "text": "step2.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "editor-terminal",
+    "uisettings": "javascript"
+  },
+  "backend": {
+    "imageid": "node"
+  }
+}
