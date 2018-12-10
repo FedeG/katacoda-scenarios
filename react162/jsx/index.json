@@ -18,7 +18,8 @@
     ],
     "intro": {
       "text": "intro.md",
-      "courseData": "start.sh"
+      "courseData": "clone.sh",
+      "code": "start.sh"
     },
     "finish": {
       "text": "finish.md"
