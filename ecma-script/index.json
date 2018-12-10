@@ -22,7 +22,7 @@
     "assets": {
       "client": [
         {
-          "file": "app",
+          "folder": "app",
           "target": "./"
         }
       ]
