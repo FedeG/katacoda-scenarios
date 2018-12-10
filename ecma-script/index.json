@@ -17,6 +17,14 @@
     },
     "finish": {
       "text": "finish.md"
+    },
+    "assets": {
+      "client": [
+        {
+          "file": "app/*",
+          "target": "~/"
+        }
+      ]
     }
   },
   "environment": {
