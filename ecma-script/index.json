@@ -19,12 +19,27 @@
     },
     "finish": {
       "text": "finish.md"
+    },
+    "assets": {
+      "client": [
+        {
+          "file": "app/**/*",
+          "target": "./"
+        }
+      ],
+      "host01": [
+        {
+          "file": "app/**/*",
+          "target": "./"
+        }
+      ]
     }
   },
   "environment": {
     "uilayout": "editor-terminal",
     "uisettings": "javascript"
   },
+  
   "backend": {
     "imageid": "node"
   }
