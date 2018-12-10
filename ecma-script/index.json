@@ -1,4 +1,5 @@
 {
+  "noindex": true,
   "title": "ECMAScript 6",
   "description": "Curso de features nuevas de javascript que se agregaron en es6",
   "details": {
@@ -17,14 +18,6 @@
     },
     "finish": {
       "text": "finish.md"
-    },
-    "assets": {
-      "client": [
-        {
-          "files": "app/**/*",
-          "target": "~/"
-        }
-      ]
     }
   },
   "environment": {
