@@ -29,7 +29,7 @@
     "uilayout": "editor-terminal",
     "uisettings": "javascript",
     "showvisualise": true,
-    "scope": "npm start",
+    "scope": "cd code && npm start",
     "scopePort": 3000
   },
   "backend": {
