@@ -27,10 +27,7 @@
   },
   "environment": {
     "uilayout": "editor-terminal",
-    "uisettings": "javascript",
-    "showvisualise": true,
-    "scope": "cd code && npm start",
-    "scopePort": 3000
+    "uisettings": "javascript"
   },
   "backend": {
     "imageid": "node"
