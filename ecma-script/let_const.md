@@ -15,11 +15,15 @@ Si desde de esa variable agregamos:
 <pre class="file" data-filename="variables.js" data-target="append">console.log(x);
 </pre>
 
+Ejecutamos el codigo: `node variables.js`{{execute}}
+
 Como usamos `var` en la declaración de la variable, `x` sigue existiendo
 
 Pero si agregamos:
 <pre class="file" data-filename="variables.js" data-target="append">console.log(y);
 </pre>
+
+Ejecutamos el codigo: `node variables.js`{{execute}}
 
 Como usamos `let` en la declaración de la variable, no existe en esta parte del codigo, solo existe dentro del bloque del if
 
@@ -31,6 +35,8 @@ b = 'otro valor';
 console.log(b);
 </pre>
 
+Comentamos los `console.log` anteriores y ejecutamos el codigo: `node variables.js`{{execute}}
+
 Como la variable `b` esta definida con `let`, podemos modificarle el valor
 
 
@@ -39,5 +45,7 @@ Pero si agregamos:
 a = 'otro valor';
 console.log(a);
 </pre>
+
+Ejecutamos el codigo: `node variables.js`{{execute}}
 
 Como la variable `a` esta definida con `const`, al querer cambiarle el valor a la constante vamos a ver un error: `'TypeError: Assignment to constant variable.'` y el valor de `a` va a seguir siendo `'var'`
