@@ -3,7 +3,7 @@
   "description": "Curso en español de React 16.2 desde 0",
   "icon": "fa-katacoda",
   "courses": [{
-    "pathway_id": "es6",
+    "pathway_id": "scenario-examples",
     "course_id": "ecma-script",
     "title": "ECMAScript 6",
     "description": "Curso de features nuevas de javascript que se agregaron en es6"
