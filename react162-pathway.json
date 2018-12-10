@@ -2,12 +2,12 @@
   "title": "React 16.2",
   "description": "Curso en español de React 16.2 desde 0",
   "icon": "fa-katacoda",
-  "courses": [{
-    "course_id": "ecma-script",
+  "scenarios": [{
+    "id": "ecma-script",
     "title": "ECMAScript 6",
     "description": "Curso de features nuevas de javascript que se agregaron en es6"
   }, {
-    "course_id": "jsx",
+    "id": "jsx",
     "title": "JSX",
     "description": "Curso de JSX para uso en React"
   }]

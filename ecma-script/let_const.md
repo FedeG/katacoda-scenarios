@@ -39,7 +39,6 @@ Comentamos los `console.log` anteriores y ejecutamos el codigo: `node variables.
 
 Como la variable `b` esta definida con `let`, podemos modificarle el valor
 
-
 Pero si agregamos:
 <pre class="file" data-filename="variables.js" data-target="append">
 a = 'otro valor';
