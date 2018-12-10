@@ -7,7 +7,7 @@ Se usa para que las variables solo sean accesibles dentro de un entorno determin
 Se usa para variables que ademas de ser accesibles dentro de un entorno determinado son de solo lectura.
 
 ## Ejemplos
-Vamos a usar el archivo `app/variables.js`: `app/variables.js`{{open}}
+Vamos a usar el archivo `variables.js`: `variables.js`{{open}}
 
 En el archivo vamos a ver un `if` con un bloque de codigo en donde se crean dos variables (`x` e `y`) y cada una de distinta manera.
 

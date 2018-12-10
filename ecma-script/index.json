@@ -22,8 +22,8 @@
     "assets": {
       "client": [
         {
-          "file": "*",
-          "target": "/home/scrapbook/"
+          "file": "app/*",
+          "target": "/home/scrapbook/tutorial/"
         }
       ]
     }
